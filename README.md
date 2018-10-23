@@ -2,19 +2,6 @@
 
 > 向上网公共弹窗插件
 
-## Build Setup 查看demo
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
 ## 安装步骤
 
 ``` bash
@@ -26,6 +13,16 @@ import layer from ' up360-layer'
 Vue.use(layer)
 
 ```
+
+## 查看demo步骤
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
 ## 参数和事件说明
 ## 1.弹窗功能
 ``` bash
