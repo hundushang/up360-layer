@@ -27,10 +27,13 @@ Vue.use(layer)
 
 ```
 ## 参数和事件说明
+``` bash
 ## 1.弹窗功能
 ## 传入参数content， 类型：string，说明：弹窗内容
 ## 传入参数lock， 类型：boolean，说明：是否锁定背景层，默认true
 ## 传入参数btn， 类型：Array，说明：按钮，使用默认样式可传入字符串，需要取消样式必须传入对象，例：{text:'取消',cancel:true}
+
+```
 
 ## 在js中使用
 ``` bash
@@ -61,7 +64,9 @@ this.$layer
 // 关闭弹窗
 this.$layer.close()
 
-2.提示功能
+```
+## 2.提示功能
+``` bash
 this.$layer.tips({
    content: '我是提示',
    time: 3000
