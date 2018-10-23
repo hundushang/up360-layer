@@ -22,6 +22,7 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+```
 
 ## 参数和事件说明
 ## 1.弹窗功能
