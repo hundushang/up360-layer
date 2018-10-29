@@ -2,6 +2,10 @@
 
 > 向上网VUE弹窗插件
 
+## demo地址
+
+> https://hundushang.github.io/up360-layer/
+
 ## 安装步骤
 
 ``` bash
